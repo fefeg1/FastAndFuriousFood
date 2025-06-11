@@ -3,6 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+
+
+/**
+ *
+ * @author sesideva
+ */
 package com.fastfood.fastfurious.produto;
 
 import jakarta.persistence.Entity;
@@ -65,3 +71,5 @@ import jakarta.persistence.Table;
     public void setPreco(Double preco) {
         this.preco = preco;
     }
+    
+}

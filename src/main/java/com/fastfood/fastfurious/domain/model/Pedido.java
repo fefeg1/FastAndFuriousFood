@@ -82,4 +82,5 @@ import jakarta.persistence;
     public enum StatusPedido {
     ABERTO, CANCELADO, PRONTO, ENTREGUE
     }
-    }
+    
+}
